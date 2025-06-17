@@ -1,0 +1,43 @@
+
+@media (max-width: 760px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+       
+    }
+    .perfil{
+        width: 80%;
+        height: 100vh; 
+        
+    }
+    .perfil img {
+        width: 100px;
+        border-radius: 50%;     
+        height: auto;
+        margin-top: 4rem;
+         
+    }
+    .botoes{
+        margin: 1rem;
+        padding: 1rem;
+
+    }
+    .botoes button {
+        width: 250px;
+        max-width: 250px; 
+        padding: 10px;
+        font-size: 14px;
+        display: block;
+        margin-bottom: 1rem;
+        font-weight: normal;
+    }
+    h1{
+        font-size: 23px;
+    }
+    h2{
+        font-size: 13px;
+    }
+    
+   
+}
