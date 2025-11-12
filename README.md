@@ -2,6 +2,8 @@
 Este projeto é uma página de perfil profissional desenvolvida com HTML e CSS para um desafio do frontend mentor, que exibe a foto, localização, profissão e links para redes sociais de uma desenvolvedora frontend. O design é moderno, responsivo e com foco em clareza visual.
 Este projeto foi desenvolvido para um desafio do Frontend Mentor https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
+Visite o site:  https://vitvasconcelos.github.io/site-perfilProfissional/
+
 📸 Prévia
 ![image](https://github.com/user-attachments/assets/9125d31f-2966-4723-a7ea-cba7dc02e8ce)
 ![image](https://github.com/user-attachments/assets/59b42e93-e225-4015-a8d5-63eb114f2e72)
